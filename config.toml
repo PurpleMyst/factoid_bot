@@ -1,0 +1,3 @@
+nickname = "factoid_bot_rs"
+server = "chat.freenode.net"
+channels = ["#8banana-bottest"]
