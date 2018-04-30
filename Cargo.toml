@@ -4,3 +4,8 @@ version = "0.1.0"
 authors = ["Purple Myst <PurpleMyst@users.noreply.github.com>"]
 
 [dependencies]
+irc = "0.13.5"
+simple_redis = "0.3.41"
+
+log = "0.4.1"
+env_logger = "0.5.9"
