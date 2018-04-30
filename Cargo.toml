@@ -5,7 +5,10 @@ authors = ["Purple Myst <PurpleMyst@users.noreply.github.com>"]
 
 [dependencies]
 irc = "0.13.5"
+
 simple_redis = "0.3.41"
 
 log = "0.4.1"
 env_logger = "0.5.9"
+
+failure = "0.1.1"
